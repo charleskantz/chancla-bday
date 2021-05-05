@@ -1,6 +1,6 @@
 import React from 'react';
 import { Image } from '@chakra-ui/image';
-import { Center, Flex } from '@chakra-ui/react';
+import { Flex } from '@chakra-ui/react';
 import brim from "./img/brim.jpg";
 import hat from "./img/hat.jpg";
 
